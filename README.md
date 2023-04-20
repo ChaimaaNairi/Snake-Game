@@ -6,5 +6,4 @@ Use the arrow keys on your keyboard to move the snake in the desired direction. 
 Each time the snake eats a piece of food, it will grow in length, making it more difficult to navigate without running into its own body. The game ends when the snake runs into a wall or its own body.</br>
 
 
-![snakeGame](https://user-images.githubusercontent.com/83820363/233363616-96c26445-c641-4991-b494-f64f5d7b6e7c.png)
 
